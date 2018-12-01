@@ -1,0 +1,2 @@
+# SCP
+Smart Communication Platform
